@@ -1,0 +1,16 @@
+{
+  "type": "application",
+  "name": "ssyt-Terminal",
+  "category": null,
+  "server": "server.js",
+  "title": {
+    "en_EN": "ssyt-Terminal"
+  },
+  "description": {
+    "en_EN": "ssyt-Terminal"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
